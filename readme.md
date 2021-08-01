@@ -9,7 +9,7 @@
 
 ## <samp>Hello World!</samp> <img src="./gif/earth.gif" width="22px">
 
-<samp>I am Raymond Degbe,  a Computer Science and Engineering Undergraduate<img src="./gif/developer.gif" width="30px"> currently at [University of Mines and Technology - Tarkwa, Ghana.](https://www.umat.edu.gh) I am passionate about solving problems with technology and creating different solutions.</samp>
+<samp>I am Raymond Degbe,  a Software Developer<img src="./gif/developer.gif" width="30px"> currently studying at [University of Mines and Technology - Tarkwa, Ghana.](https://www.umat.edu.gh) I am passionate about solving problems with technology and creating different solutions.</samp>
 
 <samp>I am currently working on [algo-compilation](https://github.com/rdegbe/algo-compilation) (A bunch of Data Structures and Algorithms implementations written in Java) and some few other projects so you might wanna follow me on [github](https://github.com/rdegbe) </samp>
 
