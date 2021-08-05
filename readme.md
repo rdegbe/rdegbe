@@ -14,7 +14,7 @@
 <samp>I am currently working on [algo-compilation](https://github.com/rdegbe/algo-compilation) (A bunch of Data Structures and Algorithms implementations written in Java) and some few other projects so you might wanna follow me on [github](https://github.com/rdegbe) </samp>
 
 * <samp>I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
-* ⚽ &nbsp; <samp>Very passionate about football.</samp>
+* <samp>Very passionate about DevOps.</samp>
 
 
 ---
