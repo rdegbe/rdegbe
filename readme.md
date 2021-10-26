@@ -9,12 +9,9 @@
 
 ## <samp>Hello World!</samp> <img src="./gif/earth.gif" width="22px">
 
-<samp>I am Raymond Degbe,  a Software Developer<img src="./gif/developer.gif" width="30px"> currently studying at [University of Mines and Technology - Tarkwa, Ghana.](https://www.umat.edu.gh) I am passionate about solving problems with technology and creating different solutions.</samp>
+<samp>I am Raymond Degbe,  a Software Developer<img src="./gif/developer.gif" width="30px"> from GHANA</samp>
 
-<samp>I am currently working on [algo-compilation](https://github.com/rdegbe/algo-compilation) (A bunch of Data Structures and Algorithms implementations written in Java) and some few other projects so you might wanna follow me on [github](https://github.com/rdegbe) </samp>
-
-* <samp>I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
-* <samp>Very passionate about DevOps.</samp>
+<samp>I write code, review code, debug, I love learning new things daily and try to share what I learned. </samp>
 
 
 ---
