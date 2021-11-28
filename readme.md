@@ -9,9 +9,7 @@
 
 ## <samp>Hello World!</samp> <img src="./gif/earth.gif" width="22px">
 
-<samp>I am Raymond Degbe,  a Software Developer<img src="./gif/developer.gif" width="30px"> from GHANA</samp>
-
-<samp>I write code, review code, debug, I love learning new things daily and try to share what I learned. </samp>
+<samp>I am Raymond,  a Software Developer<img src="./gif/developer.gif" width="30px"> from GHANA</samp>
 
 
 ---
