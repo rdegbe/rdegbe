@@ -9,7 +9,7 @@
 
 ## <samp>Hello World!</samp> <img src="./gif/earth.gif" width="22px">
 
-### <samp>My name is Raymond and I am a Software Developer<img src="./gif/developer.gif" width="30px"> from GHANA</samp>
+### <samp>My name is Raymond and I am a Software Developer & AWS Certified Cloud Practitioner <img src="./gif/developer.gif" width="30px"> from GHANA</samp>
 
 
 ---
