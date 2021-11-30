@@ -9,7 +9,12 @@
 
 ## <samp>Hello World!</samp> <img src="./gif/earth.gif" width="22px">
 
-### <samp>My name is Raymond and I am a Software Developer & AWS Certified Cloud Practitioner <img src="./gif/developer.gif" width="30px"> from GHANA</samp>
+<h3 align="center">My name is Raymond and I am a Software Developer & AWS Certified Cloud Practitioner <img src="./gif/developer.gif" width="30px"> from GHANA</h3>
+#### <samp align="center"> - 📫 How to reach me **rdegbe14@gmail.com** </sample>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdegbe&show_icons=true&count_private=true" alt="rdegbe" /> 
+</p>
 
 
 ---
