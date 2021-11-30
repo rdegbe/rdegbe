@@ -3,14 +3,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/raymond-degbe-47b344215/)](https://www.linkedin.com/in/raymond-degbe-47b344215/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/r.degbe7)](https://www.instagram.com/r.degbe7/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/r_degbe7)](https://twitter.com/r_degbe7)
+<!--
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=https://github.com/rdegbe)](rdegbe14@gmail.com)
-
-
+-->
 
 ## <samp>Hello World!</samp> <img src="./gif/earth.gif" width="22px">
 
-<h3 align="center">My name is Raymond and I am a Software Developer & AWS Certified Cloud Practitioner <img src="./gif/developer.gif" width="30px"> from GHANA</h3>
-<h4 align="center"> - 📫 How to reach me **rdegbe14@gmail.com** </h4>
+### <samp>My name is Raymond and I am a Software Developer & AWS Certified Cloud Practitioner <img src="./gif/developer.gif" width="30px"> from GHANA</samp>
+- 📫 How to reach me **rdegbe14@gmail.com**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rdegbe&show_icons=true&count_private=true" alt="rdegbe" /> 
