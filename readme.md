@@ -9,7 +9,7 @@
 
 ## <samp>Hello World!</samp> <img src="./gif/earth.gif" width="22px">
 
-### <samp>My name is Raymond and I am a Software Developer & AWS Certified Cloud Practitioner <img src="./gif/developer.gif" width="30px"> </samp>
+### <samp>I am a Software Developer & AWS Certified Cloud Practitioner <img src="./gif/developer.gif" width="30px"> </samp>
 - 📫 How to reach me **rdegbe14@gmail.com**
 
 <p align="center">
